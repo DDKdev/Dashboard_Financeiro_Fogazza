@@ -1,0 +1,54 @@
+DOCUMENTAÇÃO:
+
+30/01
+- Importei o arquivo CSV para o Power BI
+- Na transformação de Dados:
+   - tipo de dado da coluna VALOR = decimal fixo
+   - Adição de colunas personalizadas = 
+        DIA (Número Inteiro) 
+        MÊS (Número Inteiro)
+        ANO (Número Inteiro)
+	MES/ANO (Número Inteiro)
+	Lucro Líquido (decimal fixo) via DAX [VALOR] *0.40
+
+
+GRÁFICOS:
+- Cartão 1 - FATURAMENTO: Contém o valor do faturamento total do período entre 2018 e 2024.
+
+- Cartão 2 - LUCRO LÍQUIDO: Contêm o valor do Lucro Líquido em relação ao período entre 2018 e 2024.
+
+- Cartão 3 - QUANTIDADE VENDIDA: Contêm a quantidade de produtos vendidos em relação ao período entre 2018 e 2024.
+
+- Gráfico 1 - TOTAL DE VENDAS POR ANO: Representa os valores de vendas entre 2018 e 2024 por ano.
+
+- Gráfico 2 - TOTAL DE LUCRO POR ANO: Representa o lucro líquido obtido por ano.
+
+
+SEGMENTADOR: torna dinâmica visualização dos dados em um ano específico ou mês.
+
+
+- LOGOTIPO
+
+- PALETA DE CORES:
+  - #F26E22 - laranja
+  - #F25D27 -
+  - #F29877 - 
+  - #F2F2F2 -
+  - #0D0D0D -
+
+
+Page 1
+- Menu lateral (5 opções)
+- Filtro por Ano (botão)
+- Filtro por mês (Lista suspensa)
+- 4 cartões:
+  - Total vendido
+  - Total Lucro
+  - % Margem
+  - Quantidade vendida
+- Gráfico de Linha Valor por Ano
+- Gráfico rosca: total por continente.
+- Gráfico Área/mapa: Total pro país e continente.
+- Total por sabor
+
+

@@ -1,0 +1,26 @@
+04/02 - adicionamos o filtro por ano com seleção múltipla.
+04/02 - Criando menu lateral suspenso com filtros.
+05/02 - Segmentadores/Filtros
+
+- Logotipo
+- paleta:
+  - #F26E22 - laranja
+  - #F25D27 -
+  - #F29877 - 
+  - #F2F2F2 -
+  - #0D0D0D -
+
+
+Page 1
+- Menu lateral (5 opções)
+- Filtro por Ano (botão)
+- Filtro por mês (Lista suspensa)
+- 4 cartões:
+  - Total vendido
+  - Total Lucro
+  - % Margem
+  - Quantidade vendida
+- Gráfico de Linha Valor por Ano
+- Gráfico rosca: total por continente.
+- Gráfico Área/mapa: Total pro país e continente.
+- Total por sabor
